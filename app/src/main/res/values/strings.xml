@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Eats</string>
+    <string name="txt_food_store">Food Store</string>
+    <string name="txt_btn_login">MASUK</string>
+    <string name="txt_food_bank">FOOD BANK</string>
+    <string name="txt_user_name_dummy">Amirullah</string>
+    <string name="txt_address_dumy">Jalan Bhayangkara, RT 45, Tarakan Barat Kota Tarakan, Kalimantan Utara</string>
+    <string name="txt_btn_premium">LIHAT MAKANAN PREMIUM</string>
+    <string name="txt_food_name_dummy">Rujak Sayur Segar Bu Tutik</string>
+    <string name="txt_food_seller_dummy">Bu Tutik</string>
+    <string name="txt_free_food_dummy">Gratis untuk 2 orang lagi</string>
+</resources>
