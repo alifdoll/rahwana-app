@@ -9,4 +9,6 @@
     <string name="txt_food_name_dummy">Rujak Sayur Segar Bu Tutik</string>
     <string name="txt_food_seller_dummy">Bu Tutik</string>
     <string name="txt_free_food_dummy">Gratis untuk 2 orang lagi</string>
+    <string name="txt_dummy_fee">FEE PLACEHOLDER</string>
+    <string name="txt_dummy_phone_number">081321678886</string>
 </resources>
